@@ -12,7 +12,7 @@ This framework runs in the background and identifies other people running the ap
 source 'https://github.com/tourmalinelabs/iOSOK2WorkSDK.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
-platform :ios, '13.0'
+platform :ios, '11.0'
 use_frameworks!
 
 target 'YourTarget' do
