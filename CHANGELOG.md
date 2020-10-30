@@ -1,3 +1,6 @@
+## 1.0.1
+- Local notifications localization.
+
 ## 1.0.0
 - Xcode 12 & iOS 14 support.
 - Using 16 bits uuid for bluetooth service instead of 128 bits.
