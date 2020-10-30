@@ -1,3 +1,7 @@
+## 1.0.2
+- Added missing localization
+- Fixes dependency version (Alamofire)
+
 ## 1.0.1
 - Local notifications localization.
 
