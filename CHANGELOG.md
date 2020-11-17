@@ -1,3 +1,6 @@
+## 1.0.3
+- Xcode 12.2 & swift 5.3.1 support
+
 ## 1.0.2
 - Added missing localization
 - Fixes dependency version (Alamofire)
