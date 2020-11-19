@@ -1,9 +1,12 @@
+## 1.0.4
+- Added script phase to patch dependency.
+
 ## 1.0.3
-- Xcode 12.2 & swift 5.3.1 support
+- Xcode 12.2 & swift 5.3.1 support.
 
 ## 1.0.2
-- Added missing localization
-- Fixes dependency version (Alamofire)
+- Added missing localization.
+- Fixes dependency version (Alamofire).
 
 ## 1.0.1
 - Local notifications localization.
